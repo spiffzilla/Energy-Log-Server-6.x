@@ -18,7 +18,7 @@ bank:
 	"CN=security,OU=lab,DC=dev,DC=it,DC=example,DC=com"
 
 
-How to the mapping mechanism works ?
+How do the mapping mechanism works ?
 An AD user log in to Energy Log Server. In the application there is a
 admin role, which through the file role-mapping .yml binds to the name
 of the admin role to which the Admins container from AD is assigned.
